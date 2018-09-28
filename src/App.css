@@ -1,0 +1,60 @@
+h3, h2 {
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+}
+
+.application {
+	width: 100%;
+	text-align:center;
+	padding-top: 30px;
+}
+
+.buttonFont {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.sketch {
+	display: inline-block;
+}
+
+.timer {
+	display: inline-block;
+}
+
+.firstPage {
+	width: 100%;
+	text-align: center;
+	padding-top: 100px;
+}
+
+#slider {
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.secondsInput {
+	margin-bottom: 10px;
+}
+
+.top {
+	margin-bottom: 30px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.valueOfPi {
+	font-size: 50px;
+	float: right;
+}
+
+.hiddenv {
+	visibility: hidden;
+}
+
+.showv {
+	visibility: visible;
+}
+
+.marginUp {
+	margin-bottom: -95px;
+}
